@@ -7,3 +7,11 @@ body {
     color: darkturquoise;
     text-align: center;
 }
+
+.shop {
+    background-color: lightgray;
+}
+
+.background {
+    background-image: url(record.png);
+}
