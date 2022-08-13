@@ -1,0 +1,9 @@
+body {
+    margin: 0
+}
+
+.banner {
+    background-color: purple;
+    color: darkturquoise;
+    text-align: center;
+}
