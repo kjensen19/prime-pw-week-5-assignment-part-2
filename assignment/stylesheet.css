@@ -15,6 +15,5 @@ body {
 
 .background {
     background-image: radial-gradient(rgba(0, 206, 209, 0.5), rgba(128, 0, 128, 0.5)), url(record.png);
-    background-color: aquamarine;
-    margin: auto;
+    background-color: rgba(0, 206, 209, 0.5)
 }
