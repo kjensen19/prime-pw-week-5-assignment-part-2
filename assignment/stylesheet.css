@@ -6,14 +6,17 @@ body {
     background-color: purple;
     color: darkturquoise;
     text-align: center;
+
 }
 
 .shop {
     background-color: lightgray;
     padding: 1em;
+    width: fit-content;
 }
 
 .background {
     background-image: radial-gradient(rgba(0, 206, 209, 0.5), rgba(128, 0, 128, 0.5)), url(record.png);
-    background-color: rgba(0, 206, 209, 0.5)
+    display: flex;
+    flex-flow: column;   
 }
